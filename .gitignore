@@ -1,0 +1,7 @@
+/data
+/__pycache__
+output_training.txt
+output_validation.txt
+fine-tuning_training.txt
+fine-tuning_validation.txt
+*.pkl
