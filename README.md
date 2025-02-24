@@ -2,10 +2,6 @@
 
 A Large Language Model (LLM) trained on [OpenWebText](https://huggingface.co/datasets/Skylion007/openwebtext) to diagnose problems with networking infrastructure.
 
-## How to Run
-
-> ```python osibot_v1.py```
-
 ## Tech Stack
 
 **Language:** `Python`
