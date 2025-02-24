@@ -4,7 +4,7 @@ A Large Language Model (LLM) trained on [OpenWebText](https://huggingface.co/dat
 
 ## How to Run
 
-```python osibot_v1.py```
+> ```python osibot_v1.py```
 
 ## Tech Stack
 
